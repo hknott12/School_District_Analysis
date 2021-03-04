@@ -1,2 +1,2 @@
-# School_District_Analysis
-school district analysis
+# School District Analysis
+Analysis of test scores for a school district
