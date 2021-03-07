@@ -45,14 +45,14 @@ The scores by school spending were unchanged with the modification of the ninth 
   * Original Scores by School Spending:  
   ![original_spending](Images/spending_original.png)  
   * Modified Scores by School Spending:  
-  ![modified_spending](Images/spending_modified.png)  
+  ![modified_spending](Images/spending_modifed.png)  
 
 * Scores by School Size  
 The scores by school size were also unchanged, likely for the same reasons as the scores by school spending.  
   * Original Scores by School Size:  
   ![original_size](Images/size_summary_original.png)  
   * Modified Scores by School Size:  
-  ![modified_size](Images/size_summary_modifed.png)  
+  ![modified_size](Images/size_summary_modified.png)  
 
 * Scores by school type. 
 The scores by school type were also unchanged.  
@@ -68,5 +68,5 @@ In summary, the main four changes to the school district analysis are:
 * The school district summary is slightly different, with lower reading and math score averages and a lower percentage of students passing reading and math. 
 * The average scores for Thomas High School are slightly lower, as are its percentage of students passing reading and math. 
 * The average scores by grade level have no value for Thomas High School ninth graders for math and reading. 
-* Thomas High School is the same ranking as before modifying the values, but with a slightly lower margin. 
+* Thomas High School is the same ranking as before modifying the values, but with a slightly larger margin. 
 
