@@ -5,10 +5,11 @@ The goal of this project was to analyze the school district's data regarding tes
 ## Results
 After repeating the district analysis and excluding the 9th grade test scores from Thomas High School, the original results were impacted. Details of the impacts are listed here. 
 * District Summary
-The original district summary is the same for every school except Thomas High School. Its scores 
-* School Summary: how is the school summary effected
-* Thomas High School
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The original district summary is very slightly effected by the score removal from Thomas High School. 
+* School Summary
+The individual school summaries are the same for every school except Thomas High School. The scores are slightly lower after the removal of the ninth grade scores, though they are simlar. 
+* Thomas High School Ranking
+Because the change in scores for Thomas High School is so small, it retains its spot as number 2 in the ranking of the top five schools based on test score performance. 
 * Ninth grade scores
   * Math and reading scores by grade
   * Scores by school spending
@@ -16,3 +17,7 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
   * Scores by school type
 ## Summary
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
+In summary, the main four changes to the school district analysis are: 
+* The school district summary is slightly different 
+* The average scores for Thomas High School are slightly lower, as is its percentage of students passing reading and math 
+
