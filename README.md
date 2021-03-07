@@ -1,7 +1,10 @@
 # School District Analysis
 Analyzing a school district's data
 ## Overview of the Project
-The goal of this project was to analyze the school district's data regarding test scores, school size, school type, and school budget. The analysis was done on all the data for the school district, but then was repeated to exclude the test scores of 9th graders from Thomas High School because of a cheating issue.
+The goal of this project was to analyze the school district's data regarding test scores, school size, school type, and school budget. The analysis was done on all the data for the school district, but then was repeated to exclude the test scores of 9th graders from Thomas High School because of a cheating issue. The files used for the analysis are listed below.  
+Jupyter Notebook Code and Output: ![code](PyCitySchools_Challenge.ipynb)  
+Original Datasets: ![data1](Resources/schools_complete.csv)  
+![data2](Resources/students_complete.csv)  
 ## Results
 After repeating the district analysis and excluding the 9th grade test scores from Thomas High School, the original results were impacted. Details of the impacts are listed here. 
 ### District Summary
