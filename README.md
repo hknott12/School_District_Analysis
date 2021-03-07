@@ -54,12 +54,12 @@ The scores by school size were also unchanged, likely for the same reasons as th
   * Modified Scores by School Size:  
   ![modified_size](Images/size_summary_modified.png)  
 
-* Scores by school type. 
+* Scores by School Type  
 The scores by school type were also unchanged.  
   * Original Scores by School Type:  
   ![original_type](Images/type_summary_original.png)  
   * Modified Scores by School Type:  
-  ![modified_type](Images/type_summary_modified.png)  
+  ![modified_type](Images/type_summary_modifed.png)  
 
 
 ## Summary
