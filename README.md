@@ -23,10 +23,10 @@ The individual school summaries are the same for every school except Thomas High
 * Thomas High School Ranking  
 Because the change in scores for Thomas High School is so small, it retains its spot as number 2 in the ranking of the top five schools based on test score performance, though with a slightly larger margin compared to the top school. 
   * Original Top Five Ranking:  
-  ![original_top](Images/top_schools_original.png). 
+  ![original_top](Images/top_schools_original.png)   
 
   * Modified Top Five Ranking:  
-  ![modified_top](Images/top_schools_modified.png)
+  ![modified_top](Images/top_schools_modified.png)  
   
 * Math and Reading Scores by Grade  
 The math and reading scores by grade were the same for all schools and grades, except the Thomas High School ninth graders. Instead of average reading and math scores, Thomas High School ninth graders have null values in those columns.  
