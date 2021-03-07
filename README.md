@@ -30,12 +30,14 @@ Because the change in scores for Thomas High School is so small, it retains its 
   
 * Math and Reading Scores by Grade  
 The math and reading scores by grade were the same for all schools and grades, except the Thomas High School ninth graders. Instead of average reading and math scores, Thomas High School ninth graders have null values in those columns.  
-  * Original Math and Reading Scores:  
+  * Original Math Scores:  
   ![original_scores](Images/math_grade_original.png)  
+  * Original Reading Scores:  
   ![original scores](Images/reading_grade_original.png)  
 
-  * Modified Math and Reading Scores:  
-  ![modified scores](Images/math_grade_modifed.png)  
+  * Modified Math Scores:  
+  ![modified scores](Images/math_grade_modified.png)  
+  * Modified Reading Scores:  
   ![modified_scores](Images/reading_grade_modified.png)  
 
 * Scores by School Spending   
@@ -50,7 +52,7 @@ The scores by school size were also unchanged, likely for the same reasons as th
   * Original Scores by School Size:  
   ![original_size](Images/size_summary_original.png)  
   * Modified Scores by School Size:  
-  ![modifed_size](Images/size_summary_modified.png)  
+  ![modified_size](Images/size_summary_modifed.png)  
 
 * Scores by school type. 
 The scores by school type were also unchanged.  
