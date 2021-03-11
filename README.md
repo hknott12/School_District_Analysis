@@ -66,7 +66,6 @@ The scores by school type were also unchanged.
 
 
 ## Summary
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
 In summary, the main four changes to the school district analysis are: 
 * The school district summary is slightly different, with lower reading and math score averages and a lower percentage of students passing reading and math. 
 * The average scores for Thomas High School are slightly lower, as are its percentage of students passing reading and math. 
